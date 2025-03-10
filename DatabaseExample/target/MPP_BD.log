@@ -1,0 +1,277 @@
+10 mar. 2025 18:38:27,181 INFO  mpp.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {jdbc=sqlite:C:UsersgeoseOneDriveDesktopFacultateSEM_IVMPPLab1cars.db} 
+10 mar. 2025 18:38:27,193 TRACE mpp.CarsDBRepository 39 add - Enter saving task Id=0 Tesla Model S 2019 
+10 mar. 2025 18:38:27,194 TRACE mpp.JdbcUtils 48 getConnection - Enter
+10 mar. 2025 18:38:27,195 TRACE mpp.JdbcUtils 25 getNewConnection - Enter
+10 mar. 2025 18:38:27,195 INFO  mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+10 mar. 2025 18:38:27,196 INFO  mpp.JdbcUtils 31 getNewConnection - user: null
+10 mar. 2025 18:38:27,196 INFO  mpp.JdbcUtils 32 getNewConnection - pass: null
+10 mar. 2025 18:38:27,200 ERROR mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+10 mar. 2025 18:38:27,201 TRACE mpp.JdbcUtils 57 getConnection - Exit
+10 mar. 2025 18:38:43,263 INFO  mpp.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {jdbc=sqlite:C:UsersgeoseOneDriveDesktopFacultateSEM_IVMPPLab1cars.db} 
+10 mar. 2025 18:38:43,273 TRACE mpp.CarsDBRepository 39 add - Enter saving task Id=0 Tesla Model S 2019 
+10 mar. 2025 18:38:43,275 TRACE mpp.JdbcUtils 48 getConnection - Enter
+10 mar. 2025 18:38:43,275 TRACE mpp.JdbcUtils 25 getNewConnection - Enter
+10 mar. 2025 18:38:43,276 INFO  mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+10 mar. 2025 18:38:43,276 INFO  mpp.JdbcUtils 31 getNewConnection - user: null
+10 mar. 2025 18:38:43,276 INFO  mpp.JdbcUtils 32 getNewConnection - pass: null
+10 mar. 2025 18:38:43,280 ERROR mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+10 mar. 2025 18:38:43,280 TRACE mpp.JdbcUtils 57 getConnection - Exit
+10 mar. 2025 18:40:14,019 INFO  mpp.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {jdbc=sqlite:C:UsersgeoseOneDriveDesktopFacultateSEM_IVMPPLab1cars.db} 
+10 mar. 2025 18:40:14,029 TRACE mpp.CarsDBRepository 39 add - Enter saving task Id=0 Tesla Model S 2019 
+10 mar. 2025 18:40:14,029 TRACE mpp.JdbcUtils 48 getConnection - Enter
+10 mar. 2025 18:40:14,030 TRACE mpp.JdbcUtils 25 getNewConnection - Enter
+10 mar. 2025 18:40:14,030 INFO  mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+10 mar. 2025 18:40:14,030 INFO  mpp.JdbcUtils 31 getNewConnection - user: null
+10 mar. 2025 18:40:14,030 INFO  mpp.JdbcUtils 32 getNewConnection - pass: null
+10 mar. 2025 18:40:14,032 ERROR mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+10 mar. 2025 18:40:14,033 TRACE mpp.JdbcUtils 57 getConnection - Exit
+10 mar. 2025 18:45:23,095 INFO  mpp.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {jdbc=sqlite:C:UsersgeoseOneDriveDesktopFacultateSEM_IVMPPLab1cars.db} 
+10 mar. 2025 18:45:23,104 TRACE mpp.CarsDBRepository 72 add - Enter saving task Id=0 Tesla Model S 2019 
+10 mar. 2025 18:45:23,105 TRACE mpp.JdbcUtils 48 getConnection - Enter
+10 mar. 2025 18:45:23,106 TRACE mpp.JdbcUtils 25 getNewConnection - Enter
+10 mar. 2025 18:45:23,106 INFO  mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+10 mar. 2025 18:45:23,106 INFO  mpp.JdbcUtils 31 getNewConnection - user: null
+10 mar. 2025 18:45:23,107 INFO  mpp.JdbcUtils 32 getNewConnection - pass: null
+10 mar. 2025 18:45:23,110 ERROR mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+10 mar. 2025 18:45:23,111 TRACE mpp.JdbcUtils 57 getConnection - Exit
+10 mar. 2025 18:48:31,710 INFO  mpp.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {jdbc=sqlite:C:UsersgeoseOneDriveDesktopFacultateSEM_IVMPPLab1cars.db} 
+10 mar. 2025 18:48:31,718 TRACE mpp.CarsDBRepository 72 add - Enter saving task Id=0 Tesla Model S 2019 
+10 mar. 2025 18:48:31,719 TRACE mpp.JdbcUtils 48 getConnection - Enter
+10 mar. 2025 18:48:31,719 TRACE mpp.JdbcUtils 25 getNewConnection - Enter
+10 mar. 2025 18:48:31,719 INFO  mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+10 mar. 2025 18:48:31,719 INFO  mpp.JdbcUtils 31 getNewConnection - user: null
+10 mar. 2025 18:48:31,720 INFO  mpp.JdbcUtils 32 getNewConnection - pass: null
+10 mar. 2025 18:48:31,721 ERROR mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+10 mar. 2025 18:48:31,721 TRACE mpp.JdbcUtils 57 getConnection - Exit
+10 mar. 2025 18:52:25,515 INFO  mpp.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {jdbc=sqlite:C:UsersgeoseOneDriveDesktopFacultateSEM_IVMPPLab1cars.db} 
+10 mar. 2025 18:52:25,524 TRACE mpp.CarsDBRepository 72 add - Enter saving task Id=0 Tesla Model S 2019 
+10 mar. 2025 18:52:25,524 TRACE mpp.JdbcUtils 48 getConnection - Enter
+10 mar. 2025 18:52:25,525 TRACE mpp.JdbcUtils 25 getNewConnection - Enter
+10 mar. 2025 18:52:25,525 INFO  mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+10 mar. 2025 18:52:25,525 INFO  mpp.JdbcUtils 31 getNewConnection - user: null
+10 mar. 2025 18:52:25,525 INFO  mpp.JdbcUtils 32 getNewConnection - pass: null
+10 mar. 2025 18:52:25,527 ERROR mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+10 mar. 2025 18:52:25,527 TRACE mpp.JdbcUtils 57 getConnection - Exit
+10 mar. 2025 18:54:02,825 INFO  mpp.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {} 
+10 mar. 2025 18:54:02,834 TRACE mpp.CarsDBRepository 72 add - Enter saving task Id=0 Tesla Model S 2019 
+10 mar. 2025 18:54:02,834 TRACE mpp.JdbcUtils 48 getConnection - Enter
+10 mar. 2025 18:54:02,834 TRACE mpp.JdbcUtils 25 getNewConnection - Enter
+10 mar. 2025 18:54:02,835 INFO  mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+10 mar. 2025 18:54:02,835 INFO  mpp.JdbcUtils 31 getNewConnection - user: null
+10 mar. 2025 18:54:02,835 INFO  mpp.JdbcUtils 32 getNewConnection - pass: null
+10 mar. 2025 18:54:02,836 ERROR mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+10 mar. 2025 18:54:02,837 TRACE mpp.JdbcUtils 57 getConnection - Exit
+10 mar. 2025 18:54:44,113 INFO  mpp.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {jdbc=sqlite:C:UsersgeoseOneDriveDesktopFacultateSEM_IVMPPLab1cars.db} 
+10 mar. 2025 18:54:44,121 TRACE mpp.CarsDBRepository 72 add - Enter saving task Id=0 Tesla Model S 2019 
+10 mar. 2025 18:54:44,122 TRACE mpp.JdbcUtils 48 getConnection - Enter
+10 mar. 2025 18:54:44,122 TRACE mpp.JdbcUtils 25 getNewConnection - Enter
+10 mar. 2025 18:54:44,123 INFO  mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+10 mar. 2025 18:54:44,123 INFO  mpp.JdbcUtils 31 getNewConnection - user: null
+10 mar. 2025 18:54:44,123 INFO  mpp.JdbcUtils 32 getNewConnection - pass: null
+10 mar. 2025 18:54:44,125 ERROR mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+10 mar. 2025 18:54:44,125 TRACE mpp.JdbcUtils 57 getConnection - Exit
+10 mar. 2025 18:55:26,613 INFO  mpp.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {jdbc=sqlite:C:UsersgeoseOneDriveDesktopFacultateSEM_IVMPPLab1cars.db} 
+10 mar. 2025 18:55:26,622 TRACE mpp.CarsDBRepository 72 add - Enter saving task Id=0 Tesla Model S 2019 
+10 mar. 2025 18:55:26,623 TRACE mpp.JdbcUtils 48 getConnection - Enter
+10 mar. 2025 18:55:26,623 TRACE mpp.JdbcUtils 25 getNewConnection - Enter
+10 mar. 2025 18:55:26,623 INFO  mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+10 mar. 2025 18:55:26,624 INFO  mpp.JdbcUtils 31 getNewConnection - user: null
+10 mar. 2025 18:55:26,624 INFO  mpp.JdbcUtils 32 getNewConnection - pass: null
+10 mar. 2025 18:55:26,626 ERROR mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+10 mar. 2025 18:55:26,627 TRACE mpp.JdbcUtils 57 getConnection - Exit
+10 mar. 2025 18:57:01,468 INFO  mpp.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {jdbc=sqlite:C:UsersgeoseOneDriveDesktopFacultateSEM_IVMPPLab1cars.db} 
+10 mar. 2025 18:57:01,477 TRACE mpp.CarsDBRepository 72 add - Enter saving task Id=0 Tesla Model S 2019 
+10 mar. 2025 18:57:01,479 TRACE mpp.JdbcUtils 48 getConnection - Enter
+10 mar. 2025 18:57:01,479 TRACE mpp.JdbcUtils 25 getNewConnection - Enter
+10 mar. 2025 18:57:01,479 INFO  mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+10 mar. 2025 18:57:01,479 INFO  mpp.JdbcUtils 31 getNewConnection - user: null
+10 mar. 2025 18:57:01,479 INFO  mpp.JdbcUtils 32 getNewConnection - pass: null
+10 mar. 2025 18:57:01,482 ERROR mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+10 mar. 2025 18:57:01,483 TRACE mpp.JdbcUtils 57 getConnection - Exit
+10 mar. 2025 19:00:42,964 INFO  mpp.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {} 
+10 mar. 2025 19:00:42,973 TRACE mpp.CarsDBRepository 72 add - Enter saving task Id=0 Tesla Model S 2019 
+10 mar. 2025 19:00:42,973 TRACE mpp.JdbcUtils 48 getConnection - Enter
+10 mar. 2025 19:00:42,973 TRACE mpp.JdbcUtils 25 getNewConnection - Enter
+10 mar. 2025 19:00:42,974 INFO  mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+10 mar. 2025 19:00:42,974 INFO  mpp.JdbcUtils 31 getNewConnection - user: null
+10 mar. 2025 19:00:42,974 INFO  mpp.JdbcUtils 32 getNewConnection - pass: null
+10 mar. 2025 19:00:42,976 ERROR mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+10 mar. 2025 19:00:42,976 TRACE mpp.JdbcUtils 57 getConnection - Exit
+10 mar. 2025 19:01:21,073 INFO  mpp.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {} 
+10 mar. 2025 19:01:21,083 TRACE mpp.CarsDBRepository 72 add - Enter saving task Id=0 Tesla Model S 2019 
+10 mar. 2025 19:01:21,084 TRACE mpp.JdbcUtils 48 getConnection - Enter
+10 mar. 2025 19:01:21,084 TRACE mpp.JdbcUtils 25 getNewConnection - Enter
+10 mar. 2025 19:01:21,084 INFO  mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+10 mar. 2025 19:01:21,084 INFO  mpp.JdbcUtils 31 getNewConnection - user: null
+10 mar. 2025 19:01:21,085 INFO  mpp.JdbcUtils 32 getNewConnection - pass: null
+10 mar. 2025 19:01:21,086 ERROR mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+10 mar. 2025 19:01:21,087 TRACE mpp.JdbcUtils 57 getConnection - Exit
+10 mar. 2025 19:02:07,599 INFO  mpp.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {} 
+10 mar. 2025 19:02:07,607 TRACE mpp.CarsDBRepository 72 add - Enter saving task Id=0 Tesla Model S 2019 
+10 mar. 2025 19:02:07,608 TRACE mpp.JdbcUtils 48 getConnection - Enter
+10 mar. 2025 19:02:07,608 TRACE mpp.JdbcUtils 25 getNewConnection - Enter
+10 mar. 2025 19:02:07,609 INFO  mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+10 mar. 2025 19:02:07,609 INFO  mpp.JdbcUtils 31 getNewConnection - user: null
+10 mar. 2025 19:02:07,609 INFO  mpp.JdbcUtils 32 getNewConnection - pass: null
+10 mar. 2025 19:02:07,610 ERROR mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+10 mar. 2025 19:02:07,611 TRACE mpp.JdbcUtils 57 getConnection - Exit
+10 mar. 2025 19:04:55,876 INFO  mpp.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {} 
+10 mar. 2025 19:04:55,886 TRACE mpp.CarsDBRepository 72 add - Enter saving task Id=0 Tesla Model S 2019 
+10 mar. 2025 19:04:55,886 TRACE mpp.JdbcUtils 48 getConnection - Enter
+10 mar. 2025 19:04:55,888 TRACE mpp.JdbcUtils 25 getNewConnection - Enter
+10 mar. 2025 19:04:55,888 INFO  mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+10 mar. 2025 19:04:55,888 INFO  mpp.JdbcUtils 31 getNewConnection - user: null
+10 mar. 2025 19:04:55,888 INFO  mpp.JdbcUtils 32 getNewConnection - pass: null
+10 mar. 2025 19:04:55,889 ERROR mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+10 mar. 2025 19:04:55,890 TRACE mpp.JdbcUtils 57 getConnection - Exit
+10 mar. 2025 19:05:24,205 INFO  mpp.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\geose\OneDrive\Desktop\Facultate\SEM_IV\MPP\Lab1\cars.db} 
+10 mar. 2025 19:05:24,213 TRACE mpp.CarsDBRepository 72 add - Enter saving task Id=0 Tesla Model S 2019 
+10 mar. 2025 19:05:24,213 TRACE mpp.JdbcUtils 48 getConnection - Enter
+10 mar. 2025 19:05:24,213 TRACE mpp.JdbcUtils 25 getNewConnection - Enter
+10 mar. 2025 19:05:24,214 INFO  mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\geose\OneDrive\Desktop\Facultate\SEM_IV\MPP\Lab1\cars.db
+10 mar. 2025 19:05:24,214 INFO  mpp.JdbcUtils 31 getNewConnection - user: null
+10 mar. 2025 19:05:24,214 INFO  mpp.JdbcUtils 32 getNewConnection - pass: null
+10 mar. 2025 19:05:24,515 TRACE mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2d710f1a)
+10 mar. 2025 19:05:24,525 TRACE mpp.CarsDBRepository 79 add - Saved 1 instances
+10 mar. 2025 19:05:24,527 TRACE mpp.CarsDBRepository 85 add - Exit
+10 mar. 2025 19:05:24,527 TRACE mpp.CarsDBRepository 108 findAll - Enter
+10 mar. 2025 19:05:24,528 TRACE mpp.JdbcUtils 48 getConnection - Enter
+10 mar. 2025 19:05:24,528 TRACE mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2d710f1a)
+10 mar. 2025 19:05:24,532 TRACE mpp.CarsDBRepository 124 findAll - Exit
+10 mar. 2025 19:05:24,532 TRACE mpp.CarsDBRepository 27 findByManufacturer - Enter finding cars by manufacturer Tesla 
+10 mar. 2025 19:05:24,532 TRACE mpp.JdbcUtils 48 getConnection - Enter
+10 mar. 2025 19:05:24,532 TRACE mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2d710f1a)
+10 mar. 2025 19:05:24,532 TRACE mpp.CarsDBRepository 43 findByManufacturer - Exit
+10 mar. 2025 19:08:31,421 INFO  mpp.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\geose\OneDrive\Desktop\Facultate\SEM_IV\MPP\Lab1\cars.db} 
+10 mar. 2025 19:08:31,430 TRACE mpp.CarsDBRepository 72 add - Enter saving task Id=0 Tesla Model S 2019 
+10 mar. 2025 19:08:31,431 TRACE mpp.JdbcUtils 48 getConnection - Enter
+10 mar. 2025 19:08:31,432 TRACE mpp.JdbcUtils 25 getNewConnection - Enter
+10 mar. 2025 19:08:31,432 INFO  mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\geose\OneDrive\Desktop\Facultate\SEM_IV\MPP\Lab1\cars.db
+10 mar. 2025 19:08:31,433 INFO  mpp.JdbcUtils 31 getNewConnection - user: null
+10 mar. 2025 19:08:31,433 INFO  mpp.JdbcUtils 32 getNewConnection - pass: null
+10 mar. 2025 19:08:31,723 TRACE mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2d710f1a)
+10 mar. 2025 19:08:31,737 TRACE mpp.CarsDBRepository 79 add - Saved 1 instances
+10 mar. 2025 19:08:31,738 TRACE mpp.CarsDBRepository 85 add - Exit
+10 mar. 2025 19:08:31,738 TRACE mpp.CarsDBRepository 108 findAll - Enter
+10 mar. 2025 19:08:31,738 TRACE mpp.JdbcUtils 48 getConnection - Enter
+10 mar. 2025 19:08:31,738 TRACE mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2d710f1a)
+10 mar. 2025 19:08:31,743 TRACE mpp.CarsDBRepository 124 findAll - Exit
+10 mar. 2025 19:08:31,743 TRACE mpp.CarsDBRepository 27 findByManufacturer - Enter finding cars by manufacturer Tesla 
+10 mar. 2025 19:08:31,743 TRACE mpp.JdbcUtils 48 getConnection - Enter
+10 mar. 2025 19:08:31,744 TRACE mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2d710f1a)
+10 mar. 2025 19:08:31,744 TRACE mpp.CarsDBRepository 43 findByManufacturer - Exit
+10 mar. 2025 19:08:31,744 TRACE mpp.CarsDBRepository 90 update - Enter updating car with id 1 
+10 mar. 2025 19:08:31,744 TRACE mpp.JdbcUtils 48 getConnection - Enter
+10 mar. 2025 19:08:31,745 TRACE mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2d710f1a)
+10 mar. 2025 19:08:31,750 TRACE mpp.CarsDBRepository 98 update - Updated 1 instances
+10 mar. 2025 19:08:31,750 TRACE mpp.CarsDBRepository 103 update - Exit
+10 mar. 2025 19:14:13,784 INFO  mpp.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\geose\OneDrive\Desktop\Facultate\SEM_IV\MPP\Lab1\cars.db} 
+10 mar. 2025 19:14:13,788 TRACE mpp.CarsDBRepository 108 findAll - Enter
+10 mar. 2025 19:14:13,789 TRACE mpp.JdbcUtils 48 getConnection - Enter
+10 mar. 2025 19:14:13,789 TRACE mpp.JdbcUtils 25 getNewConnection - Enter
+10 mar. 2025 19:14:13,789 INFO  mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\geose\OneDrive\Desktop\Facultate\SEM_IV\MPP\Lab1\cars.db
+10 mar. 2025 19:14:13,790 INFO  mpp.JdbcUtils 31 getNewConnection - user: null
+10 mar. 2025 19:14:13,790 INFO  mpp.JdbcUtils 32 getNewConnection - pass: null
+10 mar. 2025 19:14:14,123 TRACE mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@12aba8be)
+10 mar. 2025 19:14:14,133 TRACE mpp.CarsDBRepository 124 findAll - Exit
+10 mar. 2025 19:14:14,144 TRACE mpp.CarsDBRepository 27 findByManufacturer - Enter finding cars by manufacturer Tesla 
+10 mar. 2025 19:14:14,144 TRACE mpp.JdbcUtils 48 getConnection - Enter
+10 mar. 2025 19:14:14,145 TRACE mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@12aba8be)
+10 mar. 2025 19:14:14,145 TRACE mpp.CarsDBRepository 43 findByManufacturer - Exit
+10 mar. 2025 19:14:14,146 TRACE mpp.CarsDBRepository 90 update - Enter updating car with id 1 
+10 mar. 2025 19:14:14,146 TRACE mpp.JdbcUtils 48 getConnection - Enter
+10 mar. 2025 19:14:14,146 TRACE mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@12aba8be)
+10 mar. 2025 19:14:14,150 TRACE mpp.CarsDBRepository 98 update - Updated 1 instances
+10 mar. 2025 19:14:14,151 TRACE mpp.CarsDBRepository 103 update - Exit
+10 mar. 2025 19:14:56,296 INFO  mpp.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:Lab1\cars.db} 
+10 mar. 2025 19:14:56,301 TRACE mpp.CarsDBRepository 108 findAll - Enter
+10 mar. 2025 19:14:56,301 TRACE mpp.JdbcUtils 48 getConnection - Enter
+10 mar. 2025 19:14:56,302 TRACE mpp.JdbcUtils 25 getNewConnection - Enter
+10 mar. 2025 19:14:56,302 INFO  mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:Lab1\cars.db
+10 mar. 2025 19:14:56,302 INFO  mpp.JdbcUtils 31 getNewConnection - user: null
+10 mar. 2025 19:14:56,303 INFO  mpp.JdbcUtils 32 getNewConnection - pass: null
+10 mar. 2025 19:14:56,335 ERROR mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: path to 'Lab1\cars.db': 'C:\Users\geose\OneDrive\Desktop\Facultate\SEM_IV\MPP\Lab1\DatabaseExample\Lab1' does not exist
+10 mar. 2025 19:14:56,336 TRACE mpp.JdbcUtils 57 getConnection - Exit
+10 mar. 2025 19:15:04,519 INFO  mpp.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:\Lab1\cars.db} 
+10 mar. 2025 19:15:04,524 TRACE mpp.CarsDBRepository 108 findAll - Enter
+10 mar. 2025 19:15:04,525 TRACE mpp.JdbcUtils 48 getConnection - Enter
+10 mar. 2025 19:15:04,526 TRACE mpp.JdbcUtils 25 getNewConnection - Enter
+10 mar. 2025 19:15:04,526 INFO  mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:\Lab1\cars.db
+10 mar. 2025 19:15:04,526 INFO  mpp.JdbcUtils 31 getNewConnection - user: null
+10 mar. 2025 19:15:04,527 INFO  mpp.JdbcUtils 32 getNewConnection - pass: null
+10 mar. 2025 19:15:04,556 ERROR mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: path to '\Lab1\cars.db': 'C:\Lab1' does not exist
+10 mar. 2025 19:15:04,557 TRACE mpp.JdbcUtils 57 getConnection - Exit
+10 mar. 2025 19:15:16,300 INFO  mpp.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:cars.db} 
+10 mar. 2025 19:15:16,304 TRACE mpp.CarsDBRepository 108 findAll - Enter
+10 mar. 2025 19:15:16,305 TRACE mpp.JdbcUtils 48 getConnection - Enter
+10 mar. 2025 19:15:16,305 TRACE mpp.JdbcUtils 25 getNewConnection - Enter
+10 mar. 2025 19:15:16,306 INFO  mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:cars.db
+10 mar. 2025 19:15:16,306 INFO  mpp.JdbcUtils 31 getNewConnection - user: null
+10 mar. 2025 19:15:16,307 INFO  mpp.JdbcUtils 32 getNewConnection - pass: null
+10 mar. 2025 19:15:16,624 TRACE mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@12aba8be)
+10 mar. 2025 19:15:16,629 ERROR mpp.CarsDBRepository 121 findAll - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: Masini)
+10 mar. 2025 19:15:16,630 TRACE mpp.CarsDBRepository 124 findAll - Exit
+10 mar. 2025 19:15:16,630 TRACE mpp.CarsDBRepository 27 findByManufacturer - Enter finding cars by manufacturer Tesla 
+10 mar. 2025 19:15:16,631 TRACE mpp.JdbcUtils 48 getConnection - Enter
+10 mar. 2025 19:15:16,631 TRACE mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@12aba8be)
+10 mar. 2025 19:15:16,631 ERROR mpp.CarsDBRepository 40 findByManufacturer - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: Masini)
+10 mar. 2025 19:15:16,632 TRACE mpp.CarsDBRepository 43 findByManufacturer - Exit
+10 mar. 2025 19:15:16,633 TRACE mpp.CarsDBRepository 90 update - Enter updating car with id 1 
+10 mar. 2025 19:15:16,634 TRACE mpp.JdbcUtils 48 getConnection - Enter
+10 mar. 2025 19:15:16,634 TRACE mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@12aba8be)
+10 mar. 2025 19:15:16,635 ERROR mpp.CarsDBRepository 100 update - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: Masini)
+10 mar. 2025 19:15:16,635 TRACE mpp.CarsDBRepository 103 update - Exit
+10 mar. 2025 19:16:05,518 INFO  mpp.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:DatabaseExample\cars.db} 
+10 mar. 2025 19:16:05,523 TRACE mpp.CarsDBRepository 108 findAll - Enter
+10 mar. 2025 19:16:05,524 TRACE mpp.JdbcUtils 48 getConnection - Enter
+10 mar. 2025 19:16:05,524 TRACE mpp.JdbcUtils 25 getNewConnection - Enter
+10 mar. 2025 19:16:05,524 INFO  mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:DatabaseExample\cars.db
+10 mar. 2025 19:16:05,525 INFO  mpp.JdbcUtils 31 getNewConnection - user: null
+10 mar. 2025 19:16:05,525 INFO  mpp.JdbcUtils 32 getNewConnection - pass: null
+10 mar. 2025 19:16:05,557 ERROR mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: path to 'DatabaseExample\cars.db': 'C:\Users\geose\OneDrive\Desktop\Facultate\SEM_IV\MPP\Lab1\DatabaseExample\DatabaseExample' does not exist
+10 mar. 2025 19:16:05,558 TRACE mpp.JdbcUtils 57 getConnection - Exit
+10 mar. 2025 19:16:13,693 INFO  mpp.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:DatabaseExample/cars.db} 
+10 mar. 2025 19:16:13,697 TRACE mpp.CarsDBRepository 108 findAll - Enter
+10 mar. 2025 19:16:13,698 TRACE mpp.JdbcUtils 48 getConnection - Enter
+10 mar. 2025 19:16:13,698 TRACE mpp.JdbcUtils 25 getNewConnection - Enter
+10 mar. 2025 19:16:13,699 INFO  mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:DatabaseExample/cars.db
+10 mar. 2025 19:16:13,699 INFO  mpp.JdbcUtils 31 getNewConnection - user: null
+10 mar. 2025 19:16:13,699 INFO  mpp.JdbcUtils 32 getNewConnection - pass: null
+10 mar. 2025 19:16:13,730 ERROR mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: path to 'DatabaseExample/cars.db': 'C:\Users\geose\OneDrive\Desktop\Facultate\SEM_IV\MPP\Lab1\DatabaseExample\DatabaseExample' does not exist
+10 mar. 2025 19:16:13,731 TRACE mpp.JdbcUtils 57 getConnection - Exit
+10 mar. 2025 19:16:23,449 INFO  mpp.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:DatabaseExample//cars.db} 
+10 mar. 2025 19:16:23,453 TRACE mpp.CarsDBRepository 108 findAll - Enter
+10 mar. 2025 19:16:23,454 TRACE mpp.JdbcUtils 48 getConnection - Enter
+10 mar. 2025 19:16:23,454 TRACE mpp.JdbcUtils 25 getNewConnection - Enter
+10 mar. 2025 19:16:23,454 INFO  mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:DatabaseExample//cars.db
+10 mar. 2025 19:16:23,454 INFO  mpp.JdbcUtils 31 getNewConnection - user: null
+10 mar. 2025 19:16:23,455 INFO  mpp.JdbcUtils 32 getNewConnection - pass: null
+10 mar. 2025 19:16:23,485 ERROR mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: path to 'DatabaseExample//cars.db': 'C:\Users\geose\OneDrive\Desktop\Facultate\SEM_IV\MPP\Lab1\DatabaseExample\DatabaseExample' does not exist
+10 mar. 2025 19:16:23,486 TRACE mpp.JdbcUtils 57 getConnection - Exit
+10 mar. 2025 19:16:41,036 INFO  mpp.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:DatabaseExample/cars.db} 
+10 mar. 2025 19:16:41,040 TRACE mpp.CarsDBRepository 108 findAll - Enter
+10 mar. 2025 19:16:41,041 TRACE mpp.JdbcUtils 48 getConnection - Enter
+10 mar. 2025 19:16:41,041 TRACE mpp.JdbcUtils 25 getNewConnection - Enter
+10 mar. 2025 19:16:41,042 INFO  mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:DatabaseExample/cars.db
+10 mar. 2025 19:16:41,042 INFO  mpp.JdbcUtils 31 getNewConnection - user: null
+10 mar. 2025 19:16:41,042 INFO  mpp.JdbcUtils 32 getNewConnection - pass: null
+10 mar. 2025 19:16:41,069 ERROR mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: path to 'DatabaseExample/cars.db': 'C:\Users\geose\OneDrive\Desktop\Facultate\SEM_IV\MPP\Lab1\DatabaseExample\DatabaseExample' does not exist
+10 mar. 2025 19:16:41,070 TRACE mpp.JdbcUtils 57 getConnection - Exit
+10 mar. 2025 19:17:00,585 INFO  mpp.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:/DatabaseExample/cars.db} 
+10 mar. 2025 19:17:00,590 TRACE mpp.CarsDBRepository 108 findAll - Enter
+10 mar. 2025 19:17:00,591 TRACE mpp.JdbcUtils 48 getConnection - Enter
+10 mar. 2025 19:17:00,591 TRACE mpp.JdbcUtils 25 getNewConnection - Enter
+10 mar. 2025 19:17:00,591 INFO  mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:/DatabaseExample/cars.db
+10 mar. 2025 19:17:00,591 INFO  mpp.JdbcUtils 31 getNewConnection - user: null
+10 mar. 2025 19:17:00,591 INFO  mpp.JdbcUtils 32 getNewConnection - pass: null
+10 mar. 2025 19:17:00,618 ERROR mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: path to '/DatabaseExample/cars.db': 'C:\DatabaseExample' does not exist
+10 mar. 2025 19:17:00,619 TRACE mpp.JdbcUtils 57 getConnection - Exit
+10 mar. 2025 19:17:10,981 INFO  mpp.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:/cars.db} 
+10 mar. 2025 19:17:10,986 TRACE mpp.CarsDBRepository 108 findAll - Enter
+10 mar. 2025 19:17:10,987 TRACE mpp.JdbcUtils 48 getConnection - Enter
+10 mar. 2025 19:17:10,987 TRACE mpp.JdbcUtils 25 getNewConnection - Enter
+10 mar. 2025 19:17:10,987 INFO  mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:/cars.db
+10 mar. 2025 19:17:10,988 INFO  mpp.JdbcUtils 31 getNewConnection - user: null
+10 mar. 2025 19:17:10,988 INFO  mpp.JdbcUtils 32 getNewConnection - pass: null
+10 mar. 2025 19:17:11,014 ERROR mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: opening db: '/cars.db': Access is denied
+10 mar. 2025 19:17:11,014 TRACE mpp.JdbcUtils 57 getConnection - Exit
